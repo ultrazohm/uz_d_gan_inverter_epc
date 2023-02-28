@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 10:27:33 On 30.12.2022
+
+Output: Export STEP
+Type  : ExportSTEP
+From  : Variant [[No Variations]] of PCB Document [GanInverter.PcbDoc]
+   Generated File[Export STEP_GanInverter_[No Variations]_Rev01.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 10:27:50 On 30.12.2022

@@ -1,0 +1,23 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: GanInverter.PcbDoc   30.12.2022  11:39:58
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Copper to Bottom Copper
+ASCII RoundHoles File : GanInverter_Rev01.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      10mil (0.249mm)                                           Round             575       PTH        89.17inch (2264.86mm)
+T2      12mil (0.3mm)                                             Round             5         PTH        0.17inch (4.28mm)
+T3      16mil (0.399mm)                                           Round             151       PTH        33.15inch (842.10mm)
+T4      20mil (0.5mm)                                             Round             6         PTH        1.22inch (30.89mm)
+T5      28mil (0.701mm)                                           Round             53        PTH        23.53inch (597.68mm)
+T6      45mil (1.151mm)                                           Round             6         PTH        2.67inch (67.83mm)
+T7      53mil (1.349mm)                                           Round             20        PTH        6.36inch (161.44mm)
+T8      89mil (2.25mm)                                            Round             5         PTH        2.25inch (57.20mm)
+T9      126mil (3.2mm)                                            Round             4         PTH        4.32inch (109.70mm)
+T10     126mil (3.2mm)                                            Round             4         NPTH       0.68inch (17.35mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              829
+
+Total Processing Time (hh:mm:ss) : 00:00:02
