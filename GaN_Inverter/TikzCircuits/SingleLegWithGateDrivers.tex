@@ -1,0 +1,43 @@
+\documentclass{article}
+\usepackage[fulldiodes]{circuitikz}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{circuitikz}
+\usepackage{graphicx}
+
+\begin{document}
+\centering
+
+	\begin{circuitikz}[scale=1.5]
+		\ctikzset{bipoles/resistor/height=0.25}
+		\ctikzset{bipoles/resistor/width=0.4}
+		\ctikzset{resistor = european}
+		
+		\draw
+		(0,3) node[vcc](vcc){$V_{DC}$} to (0,2)  node[Lnigbt,bodydiode,anchor=D,label={[label distance=10]100:$D_{c1}$}](S3){};
+		
+		\draw  (S3.E) to (0,0)  -- ++(2,0) node[circ,label={$Switching Node$}](va){};
+		\draw (0,0) to (0,-1) node[Lnigbt,bodydiode,anchor=D,label={[label 	distance=10]100:$D_{c2}$}](s3){};
+		\draw  (0,-2.5)  to ++(1.5,0) node[circ,label={$GND_{bot}$}](vx){};
+
+		
+		\draw (s3.E) to[/tikz/circuitikz/bipoles/length=27pt, R = $R1_{shunt}$]
+		 ++(0,-2) node[rground,label={[label distance=10]300:$DC-$}]{};
+		
+		\draw (S3.B) node[circ,label={90:{$S_1$}}]{};
+		\draw (s3.B) node[circ,label={90:{$S^*_1$}}]{};
+		
+		\draw (-1.8,1.28) node[op amp] (opamp) {};
+		\draw (opamp.-) to[short, -*] ++(-0.5,0) node[circ, label = {$PWM_p$}]{} coordinate (left);
+		\draw (opamp.+) to[short] ++(-0.5,0) coordinate (left);
+		\draw (left) to[short] ++(0,-0.96) node[left]{$GND_{top}$} to (0,0);
+		\draw (opamp.out) to ++(0.44,0) ;
+		
+		\draw (-1.8,-1.72) node[op amp] (opamp) {};
+		\draw (opamp.-) to[short, -*] ++(-0.5,0) node[above]{$PWM_n$} coordinate (left2);
+		\draw (opamp.+) to[short] ++(-0.5,0) coordinate (left2);
+		\draw (left2) to[short] ++(0,-0.95) node[left]{$GND_{bot}$} to ++(1.75,0) to ++(0,0.5) to (0,-2.5);
+		\draw (opamp.out) to ++(0.44,0) ;
+		
+	\end{circuitikz}
+\end{document}
