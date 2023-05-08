@@ -1,0 +1,45 @@
+ \documentclass{article}
+\usepackage[fulldiodes]{circuitikz}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{circuitikz}
+\usepackage{graphicx}
+
+\begin{document}
+	
+	\centering
+	
+	
+	\begin{circuitikz}
+		
+		\centering
+		
+		\ctikzset{bipoles/resistor/height=0.15}
+		\ctikzset{bipoles/resistor/width=0.4}
+		\ctikzset{resistor = european}
+		
+		
+		\draw (0,0) to ++(0, -2.5) 
+		to[/tikz/circuitikz/bipoles/length=25pt, R = $R_{s1}$]  ++(0,-1.5) -- ++(0,-1.5) -- ++(-0.6, 0);
+		\path (0,-5.3) -- node[auto=false]{\ldots} ++(-2,0);
+		\path (0,0) -- node[auto=false]{\ldots} ++(-1,0);
+
+
+
+		\draw (3,-2.8) node[op amp, yscale=-1] (opamp) {};
+		\draw (opamp.-) to[short] ++(-0.1,0) -- ++(0,-1) to[short, -*] ++(-1.71, 0) node[left]{$Sense-$} 	coordinate (left);
+		\draw (opamp.+) to[short, -*] ++(-1.8,0)  coordinate (left);
+		\draw (left)  node[left]{$Sense+$} to ++(0.5,0);
+		\draw (opamp.out) ++(0.5,0) node[above] {$OCP_1$} to[short] ++(0.8,0) node[right]{MC}  ;
+		\draw [->] (opamp.out) -- ++(1.3,0);
+		
+		\draw (opamp.up) node[ground] {};
+		
+		
+		
+		\end{circuitikz}
+
+
+
+
+\end{document}

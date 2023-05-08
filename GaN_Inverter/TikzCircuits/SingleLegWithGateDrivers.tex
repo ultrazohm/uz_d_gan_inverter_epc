@@ -1,0 +1,64 @@
+\documentclass{article}
+\usepackage[fulldiodes]{circuitikz}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{circuitikz}
+\usetikzlibrary{shapes.geometric}
+
+\usetikzlibrary{shapes}
+
+\begin{document}
+	\centering
+	\Large
+	\begin{circuitikz}[scale = 1.3]
+		
+		\ctikzset{resistor = european}
+		
+		
+		\draw
+		(0,4) node[vcc](vcc){$V_{DC}$} to (0,2.5)  node[Lnigbt,bodydiode,anchor=D,label={[label distance=10]100:$D_{a1}$}](S1){};
+		
+		\draw  (S1.E) to (0,0)  -- ++(3,0) node[ocirc,label={$Switching Node$}](va){};
+		
+		\draw (0,0) to (0,-1.5) node[Lnigbt,bodydiode,anchor=D,label={[label 	distance=10]100:$D_{a2}$}](s1){};
+		\draw  (0,-3.5)  to ++(2,0) node[circ,label={$GND_{bot}$}](vb){};
+		
+		
+		
+		
+		\draw (s1.E) to[/tikz/circuitikz/bipoles/length=27pt, R = $R1_{shunt}$]
+		++(0,-2.7) node[rground,label={[label distance=10]300:$DC-$}]{};
+		
+		\draw (S1.B) node[circ,label={90:{$S_1$}}]{};
+		\draw (s1.B) node[circ,label={90:{$S^*_1$}}]{};
+		
+		
+		\node[isosceles triangle,
+		isosceles triangle apex angle=60,
+		draw,
+		minimum size =1.5cm] (A)at (-2.53, 1.67){};
+		\draw (A.west) to[short, -*] ++(-1.5,0) node[circ, label = {$PWM_p$}]{} coordinate (up);
+		\draw (A.east) to[short] ++(1.1,0);
+		\draw (A.270) to[short] ++(0,-1.2) node[left]{$COM  HS$} to (va);
+		\draw (0,0) node[circ]{};
+		\draw (A.90) to ++(0,0.5) node[vcc](vcc){$HS_{12V}$} ;
+		
+		
+		\node[isosceles triangle,
+		isosceles triangle apex angle=60,
+		draw,
+		minimum size =1.5cm] (B)at (-2.53, -2.33){};
+		\draw (B.west) to[short, -*] ++(-1.5,0) node[circ, label = {$PWM_n$}]{} coordinate (down);
+		\draw (B.east) to[short] ++(1.1,0);
+		\draw (B.270) to[short] ++(0,-0.68) node[below]{$COM  LS$} to (vb);
+		\draw (0,-3.5) node[circ]{};
+		
+		\draw (B.90) to ++(0,0.4) node[vcc](vcc){$LS_{12V}$} ;
+		
+		
+		
+	
+		
+		
+	\end{circuitikz}
+\end{document}
