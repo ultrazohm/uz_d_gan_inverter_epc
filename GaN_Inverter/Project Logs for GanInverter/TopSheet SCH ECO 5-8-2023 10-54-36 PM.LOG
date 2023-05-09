@@ -1,0 +1,48 @@
+Remove Pin=C1-1 From Net=COM_LS
+Remove Pin=C29-2 From Net=HS 5V
+Remove Pin=C29-1 From Net=COM_HS
+Remove Pin=C33-1 From Net=COM_HS
+Remove Pin=C35-2 From Net=COM_HS
+Remove Pin=C37-2 From Net=COM_HS
+Remove Pin=Q1-1 From Net=PWM_out_H
+Remove Pin=Q2-1 From Net=PWM_out_L
+Remove Pin=R47-1 From Net=COM_HS
+Remove Pin=R87-2 From Net=COM_LS
+Remove Pin=U10-3 From Net=PWM_EN
+Remove Pin=U10-6 From Net=FLT_BOT
+Remove Pin=U15-3 From Net=COM_HS
+Remove Pin=X1-45 From Net=PWM_EN
+Change Component Footprint: Designator=R47 Old Footprint=RES 1206_3216 New Footprint=RES 0603_1608
+Change Component Footprint: Designator=R47 Old Footprint=RES 1206_3216 New Footprint=RES 0603_1608
+Change Component Footprint: Designator=R47 Old Footprint=RES 1206_3216 New Footprint=RES 0603_1608
+Change Component Footprint: Designator=R48 Old Footprint=RES 1206_3216 New Footprint=RES 0603_1608
+Change Component Footprint: Designator=R48 Old Footprint=RES 1206_3216 New Footprint=RES 0603_1608
+Change Component Footprint: Designator=R48 Old Footprint=RES 1206_3216 New Footprint=RES 0603_1608
+Change Component Footprint: Designator=U1 Old Footprint=SOIC MAX14932FAWE+ New Footprint=SOIC-16
+Change Component Footprint: Designator=U1 Old Footprint=SOIC MAX14932FAWE+ New Footprint=SOIC-16
+Change Component Footprint: Designator=U1 Old Footprint=SOIC MAX14932FAWE+ New Footprint=SOIC-16
+Change Component Comment: Designator=R47 Old Comment==Value New Comment=0R
+Change Component Comment: Designator=R47 Old Comment=0R New Comment=0R
+Change Component Comment: Designator=R47 Old Comment=0R New Comment=0R
+Change Component Comment: Designator=R48 Old Comment==Value New Comment=0R
+Change Component Comment: Designator=R48 Old Comment=0R New Comment=0R
+Change Component Comment: Designator=R48 Old Comment=0R New Comment=0R
+Change Component Comment: Designator=R52 Old Comment==Value New Comment=0R
+Change Component Comment: Designator=R52 Old Comment=0R New Comment=0R
+Change Component Comment: Designator=R52 Old Comment=0R New Comment=0R
+Change Component Comment: Designator=R59 Old Comment==Value New Comment=0R
+Change Component Comment: Designator=R59 Old Comment=0R New Comment=0R
+Change Component Comment: Designator=R59 Old Comment=0R New Comment=0R
+Change Component Comment: Designator=R62 Old Comment==Value New Comment=0R
+Change Component Comment: Designator=R62 Old Comment=0R New Comment=0R
+Change Component Comment: Designator=R62 Old Comment=0R New Comment=0R
+Change Component Comment: Designator=R71 Old Comment==Value New Comment=0R
+Change Component Comment: Designator=R71 Old Comment=0R New Comment=0R
+Change Component Comment: Designator=R71 Old Comment=0R New Comment=0R
+Change Component Comment: Designator=L1 Old Comment=LQM18DZ6R8M70L New Comment=LQM18DN6R8M70L
+Change Component Comment: Designator=U1 Old Comment=MAX14932FAWE+ New Comment=MAX14931FAWE+
+Change Component Comment: Designator=U1 Old Comment=MAX14931FAWE+ New Comment=MAX14931FAWE+
+Change Component Comment: Designator=U1 Old Comment=MAX14931FAWE+ New Comment=MAX14931FAWE+
+Add Pin To Net: Pin=U1-5 Old Net=NetU1_5 New Net=PWM_HA
+Add Pin To Net: Pin=U1-5 Old Net=NetU1_5 New Net=PWM_HB
+Add Pin To Net: Pin=U1-5 Old Net=NetU1_5 New Net=PWM_HC
