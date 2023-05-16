@@ -1,0 +1,2 @@
+Remove Pin=C1-1 From Net=COM_LS
+Remove Pin=C1-2 From Net=LS_5V

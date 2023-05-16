@@ -20,32 +20,33 @@
 			
 			
 			\draw (-1,2) to[european voltage source,v_=$V_{DC}$] ++(0,-3.77);
-			\draw (-1,2)--(0,2) node[circ]{}  to[C,l=$C_{link}$] ++(0,-3.76) node[circ]{};
+			\draw (-1,2)--(0,2) node[circ]{}  to[C,l=$C$] ++(0,-3.76) node[circ]{};
 			
-			\draw (0,2) to[/tikz/circuitikz/bipoles/length=25pt, R = $R_{dc}$] ++(2,0)  node[circ]{}
-			to (6,2) -- ++(0,-0.3) node[Lnigbt,bodydiode,anchor=D,label={[label distance=10]100:$D_{c1}$}](S3){};
+			\draw (0,2) to ++(2,0)  node[circ]{}
+			to (6,2) -- ++(0,-0.3) node[Lnigbt,bodydiode,anchor=D,label={[label distance=10]100:$$}](S3){};
 			
 			\draw (4,2) node[circ]{};
 			\draw (2,-1.76) node[circ]{};
 			\draw (4,-1.76) node[circ]{};
 			\draw (S3.E)  to (6,0)  node[circ,label={180:$V_{C}$}](vc){}
-			to (6,-.5) node[Lnigbt,bodydiode,anchor=D,label={[label distance=10]100:$D_{c2}$}](s3){};
-			\draw (s3.E) to ++(0,-0.3) to ++(-7,0);
+			to (6,-.5) node[Lnigbt,bodydiode,anchor=D,label={[label distance=10]100:$$}](s3){};
+			\draw (s3.E) to ++(0,-0.3) to ++(-4,0);
 			
 			
 			
 			\draw (S3.B) node[circ,label={90:{$S_3$}}]{};
 			\draw (s3.B) node[circ,label={90:{$S^*_3$}}]{};
 			
-			\draw (2,2) -- ++(0,-0.3) node[Lnigbt,bodydiode,anchor=D,label={[label 	distance=10]100:$D_{a1}$}](S1){} ;
+			\draw (2,2) -- ++(0,-0.3) node[Lnigbt,bodydiode,anchor=D,label={[label 	distance=10]100:$$}](S1){} ;
 			\draw (S1.E) to (2,0)  node[circ,label={180:$V_{A}$}](va){}
-			to (2,-.5) node[Lnigbt,bodydiode,anchor=D,label={[label distance=10]100:$D_{a2}$}](s1){};
+			to (2,-.5) node[Lnigbt,bodydiode,anchor=D,label={[label distance=10]100:$$}](s1){};
+			\draw (s1.E) to ++(0,-0.3)  to [/tikz/circuitikz/bipoles/length=25pt, R = $R_{dc}$] ++(-2,0) to ++(-1,0);
 			\draw (S1.B) node[circ,label={90:{$S_1$}}]{};
 			\draw (s1.B) node[circ,label={90:{$S^*_1$}}]{};
 			
-			\draw (4,2) -- ++(0,-0.3)   node[Lnigbt,bodydiode,anchor=D,label={[label distance=10]100:$D_{b1}$}](S2){};
+			\draw (4,2) -- ++(0,-0.3)   node[Lnigbt,bodydiode,anchor=D,label={[label distance=10]100:$$}](S2){};
 			\draw (S2.E) to (4,0)  node[circ,label={180:$V_{B}$}](vb){}
-			to (4,-.5) node[Lnigbt,bodydiode,anchor=D,label={[label distance=10]100:$D_{b2}$}](s2){};
+			to (4,-.5) node[Lnigbt,bodydiode,anchor=D,label={[label distance=10]100:$$}](s2){};
 			\draw (S2.B) node[circ,label={90:{$S_2$}}]{};
 			\draw (s2.B) node[circ,label={90:{$S^*_2$}}]{};
 			

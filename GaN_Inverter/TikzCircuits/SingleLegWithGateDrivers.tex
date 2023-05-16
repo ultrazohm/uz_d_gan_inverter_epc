@@ -16,17 +16,17 @@
 		
 		
 		\draw
-		(0,4) node[vcc](vcc){$V_{DC}$} to (0,2.5)  node[Lnigbt,bodydiode,anchor=D,label={[label distance=10]100:$D_{a1}$}](S1){};
+		(0,4) node[vcc](vcc){$V_{DC}$} to (0,2.5)  node[Lnigbt,bodydiode,anchor=D,label={[label distance=10]100:$$}](S1){};
 		
 		\draw  (S1.E) to (0,0)  -- ++(3,0) node[ocirc,label={$Switching Node$}](va){};
 		
-		\draw (0,0) to (0,-1.5) node[Lnigbt,bodydiode,anchor=D,label={[label 	distance=10]100:$D_{a2}$}](s1){};
-		\draw  (0,-3.5)  to ++(2,0) node[circ,label={$GND_{bot}$}](vb){};
+		\draw (0,0) to (0,-1.5) node[Lnigbt,bodydiode,anchor=D,label={[label 	distance=10]100:$$}](s1){};
+		\draw  (0,-3.5)  to ++(2,0) node[circ,label={$COM  LS$}](vb){};
 		
 		
 		
 		
-		\draw (s1.E) to[/tikz/circuitikz/bipoles/length=27pt, R = $R1_{shunt}$]
+		\draw (s1.E) to[/tikz/circuitikz/bipoles/length=27pt, R = $R_s$]
 		++(0,-2.7) node[rground,label={[label distance=10]300:$DC-$}]{};
 		
 		\draw (S1.B) node[circ,label={90:{$S_1$}}]{};

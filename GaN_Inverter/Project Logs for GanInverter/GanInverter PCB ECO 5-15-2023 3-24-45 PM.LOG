@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=LS_5VA Pin=C1A-1
+Added Pin To Net: NetName=COM_LSA Pin=C1A-2
+Added Pin To Net: NetName=LS_5VA Pin=C1B-1
+Added Pin To Net: NetName=COM_LSA Pin=C1B-2
+Added Pin To Net: NetName=LS_5VA Pin=C1C-1
+Added Pin To Net: NetName=COM_LSA Pin=C1C-2
