@@ -1,0 +1,6 @@
+Add Component: Footprint Not Found C_0603
+Add Pin To Net: Unknown Pin: Pin C25A-1
+Add Pin To Net: Unknown Pin: Pin C25A-2
+Add Class Member: Failed to add class member : Component C25A (C28) 1 µF
+Added Member To Class: ClassName=Halfbridge1 Member=Component L12A (L12) LQM18DN6R8M70L
+Added Member To Class: ClassName=Halfbridge1 Member=Component R51A (R51) KRL2012E-M-R004-F-T5
