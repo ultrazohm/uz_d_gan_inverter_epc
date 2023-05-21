@@ -1,0 +1,17 @@
+Add Component: Footprint Not Found C_0603
+Add Component: Footprint Not Found C_0603
+Add Component: Footprint Not Found C_0603
+Add Pin To Net: Unknown Pin: Pin C34A-1
+Add Pin To Net: Unknown Pin: Pin C34A-2
+Add Pin To Net: Unknown Pin: Pin C34B-1
+Add Pin To Net: Unknown Pin: Pin C34B-2
+Add Pin To Net: Unknown Pin: Pin C34C-1
+Add Pin To Net: Unknown Pin: Pin C34C-2
+Added Member To Class: ClassName=Reference Member=Component C2 (C4) 10 µF
+Add Class Member: Failed to add class member : Component C34A (C34) 1 µF
+Add Class Member: Failed to add class member : Component C34B (C34) 1 µF
+Add Class Member: Failed to add class member : Component C34C (C34) 1 µF
+Added Member To Class: ClassName=DC-link Member=Component C57 56 pF
+Added Member To Class: ClassName=PhaseMeasurements1 Member=Component U4A (U4) LM57CISD-10/NOPB
+Added Member To Class: ClassName=PhaseMeasurements2 Member=Component U4B (U4) LM57CISD-10/NOPB
+Added Member To Class: ClassName=PhaseMeasurements3 Member=Component U4C (U4) LM57CISD-10/NOPB

@@ -1,0 +1,397 @@
+Removed Pin From Net: NetName=HS 5VA Pin=5V_TOPA-1
+Removed Pin From Net: NetName=HS 5VA Pin=5V_TOPB-1
+Removed Pin From Net: NetName=LS_5VA Pin=C1B-1
+Removed Pin From Net: NetName=COM_LSA Pin=C1B-2
+Removed Pin From Net: NetName=LS_5VA Pin=C1C-1
+Removed Pin From Net: NetName=COM_LSA Pin=C1C-2
+Removed Pin From Net: NetName=COM_HSA Pin=C25C-1
+Removed Pin From Net: NetName=COM_HSA Pin=C29A-1
+Removed Pin From Net: NetName=HS 5VA Pin=C29A-2
+Removed Pin From Net: NetName=HS 5VA Pin=C29B-2
+Removed Pin From Net: NetName=COM_HSA Pin=C29C-1
+Removed Pin From Net: NetName=COM_HSA Pin=C31A-1
+Removed Pin From Net: NetName=COM_HSA Pin=C31C-1
+Removed Pin From Net: NetName=COM_HSA Pin=C33A-1
+Removed Pin From Net: NetName=COM_HSA Pin=C33C-1
+Removed Pin From Net: NetName=COM_LSA Pin=C34B-1
+Removed Pin From Net: NetName=COM_LSA Pin=C34C-1
+Removed Pin From Net: NetName=COM_HSA Pin=C35A-2
+Removed Pin From Net: NetName=COM_HSA Pin=C35C-2
+Removed Pin From Net: NetName=COM_LSA Pin=C36B-2
+Removed Pin From Net: NetName=COM_LSA Pin=C36C-2
+Removed Pin From Net: NetName=COM_HSA Pin=C37A-2
+Removed Pin From Net: NetName=COM_HSA Pin=C37C-2
+Removed Pin From Net: NetName=COM_LSA Pin=C38B-1
+Removed Pin From Net: NetName=COM_LSA Pin=C38C-1
+Removed Pin From Net: NetName=COM_HSA Pin=C63A-1
+Removed Pin From Net: NetName=HS 5VA Pin=C63A-2
+Removed Pin From Net: NetName=HS 5VA Pin=C63B-2
+Removed Pin From Net: NetName=COM_HSA Pin=C63C-1
+Removed Pin From Net: NetName=COM_LSA Pin=C90B-1
+Removed Pin From Net: NetName=COM_LSA Pin=C90C-1
+Removed Pin From Net: NetName=COM_LSA Pin=C91B-1
+Removed Pin From Net: NetName=COM_LSA Pin=C91C-1
+Removed Pin From Net: NetName=COM_LSA Pin=C92B-1
+Removed Pin From Net: NetName=LS_5VA Pin=C92B-2
+Removed Pin From Net: NetName=COM_LSA Pin=C92C-1
+Removed Pin From Net: NetName=LS_5VA Pin=C92C-2
+Removed Pin From Net: NetName=HS 5VA Pin=D4A-1
+Removed Pin From Net: NetName=HS 5VA Pin=D4B-1
+Removed Pin From Net: NetName=LS_5VA Pin=D5B-1
+Removed Pin From Net: NetName=LS_5VA Pin=D5C-1
+Removed Pin From Net: NetName=LS_5VA Pin=LS_5VB-1
+Removed Pin From Net: NetName=LS_5VA Pin=LS_5VC-1
+Removed Pin From Net: NetName=COM_HSA Pin=PS1A-4
+Removed Pin From Net: NetName=COM_HSA Pin=PS1C-4
+Removed Pin From Net: NetName=HS 5VA Pin=PS3A-1
+Removed Pin From Net: NetName=COM_HSA Pin=PS3A-3
+Removed Pin From Net: NetName=COM_HSA Pin=PS3A-7
+Removed Pin From Net: NetName=HS 5VA Pin=PS3B-1
+Removed Pin From Net: NetName=COM_HSA Pin=PS3C-3
+Removed Pin From Net: NetName=COM_HSA Pin=PS3C-7
+Removed Pin From Net: NetName=COM_LSA Pin=PS4B-4
+Removed Pin From Net: NetName=COM_LSA Pin=PS4C-4
+Removed Pin From Net: NetName=LS_5VA Pin=PS5B-1
+Removed Pin From Net: NetName=COM_LSA Pin=PS5B-3
+Removed Pin From Net: NetName=COM_LSA Pin=PS5B-7
+Removed Pin From Net: NetName=LS_5VA Pin=PS5C-1
+Removed Pin From Net: NetName=COM_LSA Pin=PS5C-3
+Removed Pin From Net: NetName=COM_LSA Pin=PS5C-7
+Removed Pin From Net: NetName=COM_HSA Pin=Q1A-2
+Removed Pin From Net: NetName=COM_HSA Pin=Q1A-4
+Removed Pin From Net: NetName=COM_HSA Pin=Q1A-6
+Removed Pin From Net: NetName=COM_HSA Pin=Q1C-2
+Removed Pin From Net: NetName=COM_HSA Pin=Q1C-4
+Removed Pin From Net: NetName=COM_HSA Pin=Q1C-6
+Removed Pin From Net: NetName=COM_HSA Pin=Q2A-3
+Removed Pin From Net: NetName=COM_HSA Pin=Q2A-5
+Removed Pin From Net: NetName=COM_HSA Pin=Q2A-7
+Removed Pin From Net: NetName=COM_LSA Pin=Q2B-2
+Removed Pin From Net: NetName=COM_LSA Pin=Q2B-4
+Removed Pin From Net: NetName=COM_LSA Pin=Q2B-6
+Removed Pin From Net: NetName=COM_LSA Pin=Q2C-2
+Removed Pin From Net: NetName=COM_HSA Pin=Q2C-3
+Removed Pin From Net: NetName=COM_LSA Pin=Q2C-4
+Removed Pin From Net: NetName=COM_HSA Pin=Q2C-5
+Removed Pin From Net: NetName=COM_LSA Pin=Q2C-6
+Removed Pin From Net: NetName=COM_HSA Pin=Q2C-7
+Removed Pin From Net: NetName=HS 5VA Pin=R11A-2
+Removed Pin From Net: NetName=HS 5VA Pin=R11B-2
+Removed Pin From Net: NetName=LS_5VA Pin=R16B-2
+Removed Pin From Net: NetName=LS_5VA Pin=R16C-2
+Removed Pin From Net: NetName=COM_HSA Pin=R47A-1
+Removed Pin From Net: NetName=COM_HSA Pin=R47C-1
+Removed Pin From Net: NetName=COM_LSA Pin=R48B-1
+Removed Pin From Net: NetName=COM_LSA Pin=R48C-1
+Removed Pin From Net: NetName=COM_LSA Pin=R49B-1
+Removed Pin From Net: NetName=COM_LSA Pin=R49C-1
+Removed Pin From Net: NetName=COM_LSA Pin=R51B-1
+Removed Pin From Net: NetName=COM_LSA Pin=R51C-1
+Removed Pin From Net: NetName=COM_LSA Pin=R58B-1
+Removed Pin From Net: NetName=COM_LSA Pin=R58C-1
+Removed Pin From Net: NetName=COM_LSA Pin=R60B-1
+Removed Pin From Net: NetName=COM_LSA Pin=R60C-1
+Removed Pin From Net: NetName=COM_LSA Pin=R61B-1
+Removed Pin From Net: NetName=COM_LSA Pin=R61C-1
+Removed Pin From Net: NetName=COM_HSA Pin=R74A-1
+Removed Pin From Net: NetName=COM_HSA Pin=R74C-1
+Removed Pin From Net: NetName=COM_LSA Pin=R75B-1
+Removed Pin From Net: NetName=COM_LSA Pin=R75C-1
+Removed Pin From Net: NetName=HS 5VA Pin=R78A-2
+Removed Pin From Net: NetName=HS 5VA Pin=R78B-2
+Removed Pin From Net: NetName=LS_5VA Pin=R86B-2
+Removed Pin From Net: NetName=LS_5VA Pin=R86C-2
+Removed Pin From Net: NetName=COM_LSA Pin=R87B-2
+Removed Pin From Net: NetName=COM_LSA Pin=R87C-2
+Removed Pin From Net: NetName=3V3_PER Pin=U10A-
+Removed Pin From Net: NetName=COM_LSA Pin=U10B-9
+Removed Pin From Net: NetName=LS_5VA Pin=U10B-10
+Removed Pin From Net: NetName=COM_LSA Pin=U10B-15
+Removed Pin From Net: NetName=LS_5VA Pin=U10B-16
+Removed Pin From Net: NetName=COM_LSA Pin=U10C-9
+Removed Pin From Net: NetName=LS_5VA Pin=U10C-10
+Removed Pin From Net: NetName=COM_LSA Pin=U10C-15
+Removed Pin From Net: NetName=LS_5VA Pin=U10C-16
+Removed Pin From Net: NetName=COM_HSA Pin=U15A-0
+Removed Pin From Net: NetName=COM_HSA Pin=U15A-3
+Removed Pin From Net: NetName=COM_HSA Pin=U15A-6
+Removed Pin From Net: NetName=COM_HSA Pin=U15A-7
+Removed Pin From Net: NetName=COM_HSA Pin=U15A-8
+Removed Pin From Net: NetName=COM_HSA Pin=U15A-9
+Removed Pin From Net: NetName=COM_HSA Pin=U15A-14
+Removed Pin From Net: NetName=COM_HSA Pin=U15A-15
+Removed Pin From Net: NetName=COM_HSA Pin=U15C-0
+Removed Pin From Net: NetName=COM_HSA Pin=U15C-3
+Removed Pin From Net: NetName=COM_HSA Pin=U15C-6
+Removed Pin From Net: NetName=COM_HSA Pin=U15C-7
+Removed Pin From Net: NetName=COM_HSA Pin=U15C-8
+Removed Pin From Net: NetName=COM_HSA Pin=U15C-9
+Removed Pin From Net: NetName=COM_HSA Pin=U15C-14
+Removed Pin From Net: NetName=COM_HSA Pin=U15C-15
+Removed Pin From Net: NetName=COM_LSA Pin=U16A-0
+Removed Pin From Net: NetName=COM_LSA Pin=U16B-0
+Removed Pin From Net: NetName=COM_LSA Pin=U16B-3
+Removed Pin From Net: NetName=COM_LSA Pin=U16B-9
+Removed Pin From Net: NetName=COM_LSA Pin=U16B-14
+Removed Pin From Net: NetName=COM_LSA Pin=U16B-15
+Removed Pin From Net: NetName=COM_LSA Pin=U16C-0
+Removed Pin From Net: NetName=COM_LSA Pin=U16C-3
+Removed Pin From Net: NetName=COM_LSA Pin=U16C-9
+Removed Pin From Net: NetName=COM_LSA Pin=U16C-14
+Removed Pin From Net: NetName=COM_LSA Pin=U16C-15
+Removed Pin From Net: NetName=COM_HSA Pin=U17A-9
+Removed Pin From Net: NetName=HS 5VA Pin=U17A-10
+Removed Pin From Net: NetName=COM_HSA Pin=U17A-15
+Removed Pin From Net: NetName=HS 5VA Pin=U17A-16
+Removed Pin From Net: NetName=HS 5VA Pin=U17B-10
+Removed Pin From Net: NetName=HS 5VA Pin=U17B-16
+Removed Pin From Net: NetName=COM_HSA Pin=U17C-9
+Removed Pin From Net: NetName=COM_HSA Pin=U17C-15
+Change Component Comment : Designator=R48A Old Comment=0R New Comment=1M
+Change Component Comment : Designator=R48B Old Comment=0R New Comment=1M
+Change Component Comment : Designator=R48C Old Comment=0R New Comment=1M
+Change Component Comment : Designator=R52A Old Comment=0R New Comment=2.7R
+Change Component Comment : Designator=R52B Old Comment=0R New Comment=2.7R
+Change Component Comment : Designator=R52C Old Comment=0R New Comment=2.7R
+Change Component Comment : Designator=R59A Old Comment=0R New Comment=2.7R
+Change Component Comment : Designator=R59B Old Comment=0R New Comment=2.7R
+Change Component Comment : Designator=R59C Old Comment=0R New Comment=2.7R
+Change Component Comment : Designator=R62A Old Comment=0R New Comment=2.7R
+Change Component Comment : Designator=R62B Old Comment=0R New Comment=2.7R
+Change Component Comment : Designator=R62C Old Comment=0R New Comment=2.7R
+Change Component Comment : Designator=R71A Old Comment=0R New Comment=2.7R
+Change Component Comment : Designator=R71B Old Comment=0R New Comment=2.7R
+Change Component Comment : Designator=R71C Old Comment=0R New Comment=2.7R
+Change component parameters: Designator = "R58A" ("R58"); Footprint = "FP-KRL2012-MFG"; UniqueID = "\1UVWUVFXH\XTRAAEDL" ("\1UVWUVFXH\XTRAAEDL")
+Change component parameters (AddParameter): Name = "Case Code (Imperial)"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Metric)"; Value = "2012"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "2012"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Features"; Value = "Automotive AEC-Q200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.028inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "0.049inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Power Dissipation"; Value = "1W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "1W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "4mR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistor Type"; Value = "Metal Foil"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "KRL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "METAL FOIL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "50ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "1.25mm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R58B" ("R58"); Footprint = "FP-KRL2012-MFG"; UniqueID = "\2UVWUVFXH\XTRAAEDL" ("\2UVWUVFXH\XTRAAEDL")
+Change component parameters (AddParameter): Name = "Case Code (Imperial)"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Metric)"; Value = "2012"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "2012"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Features"; Value = "Automotive AEC-Q200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.028inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "0.049inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Power Dissipation"; Value = "1W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "1W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "4mR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistor Type"; Value = "Metal Foil"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "KRL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "METAL FOIL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "50ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "1.25mm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R58C" ("R58"); Footprint = "FP-KRL2012-MFG"; UniqueID = "\3UVWUVFXH\XTRAAEDL" ("\3UVWUVFXH\XTRAAEDL")
+Change component parameters (AddParameter): Name = "Case Code (Imperial)"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Metric)"; Value = "2012"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "2012"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Features"; Value = "Automotive AEC-Q200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.028inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "0.049inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Power Dissipation"; Value = "1W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "1W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "4mR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistor Type"; Value = "Metal Foil"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "KRL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "METAL FOIL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "50ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "1.25mm"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found C_0603
+Add Pin To Net: Unknown Pin: Pin C25A-2
+Add Pin To Net: Unknown Pin: Pin U10A-7
+Change Net Name : Old Net Name=COM_HSA New Net Name=COM_HSB
+Change Net Name : Old Net Name=HS 5VA New Net Name=HS_5VC
+Added Pin To Net: NetName=COM_HSA Pin=C29A-1
+Added Pin To Net: NetName=COM_HSA Pin=C31A-1
+Added Pin To Net: NetName=COM_HSA Pin=C33A-1
+Added Pin To Net: NetName=COM_HSA Pin=C35A-2
+Added Pin To Net: NetName=COM_HSA Pin=C37A-2
+Added Pin To Net: NetName=COM_HSA Pin=C63A-1
+Added Pin To Net: NetName=COM_HSA Pin=PS1A-4
+Added Pin To Net: NetName=COM_HSA Pin=PS3A-3
+Added Pin To Net: NetName=COM_HSA Pin=PS3A-7
+Added Pin To Net: NetName=COM_HSA Pin=Q1A-2
+Added Pin To Net: NetName=COM_HSA Pin=Q1A-4
+Added Pin To Net: NetName=COM_HSA Pin=Q1A-6
+Added Pin To Net: NetName=COM_HSA Pin=Q2A-3
+Added Pin To Net: NetName=COM_HSA Pin=Q2A-5
+Added Pin To Net: NetName=COM_HSA Pin=Q2A-7
+Added Pin To Net: NetName=COM_HSA Pin=R47A-1
+Added Pin To Net: NetName=COM_HSA Pin=R74A-1
+Added Pin To Net: NetName=COM_HSA Pin=U15A-0
+Added Pin To Net: NetName=COM_HSA Pin=U15A-3
+Added Pin To Net: NetName=COM_HSA Pin=U15A-6
+Added Pin To Net: NetName=COM_HSA Pin=U15A-7
+Added Pin To Net: NetName=COM_HSA Pin=U15A-8
+Added Pin To Net: NetName=COM_HSA Pin=U15A-9
+Added Pin To Net: NetName=COM_HSA Pin=U15A-14
+Added Pin To Net: NetName=COM_HSA Pin=U15A-15
+Added Pin To Net: NetName=COM_HSA Pin=U17A-9
+Added Pin To Net: NetName=COM_HSA Pin=U17A-15
+Added Net: Name=COM_HSA
+Added Pin To Net: NetName=COM_HSC Pin=C25C-1
+Added Pin To Net: NetName=COM_HSC Pin=C29C-1
+Added Pin To Net: NetName=COM_HSC Pin=C31C-1
+Added Pin To Net: NetName=COM_HSC Pin=C33C-1
+Added Pin To Net: NetName=COM_HSC Pin=C35C-2
+Added Pin To Net: NetName=COM_HSC Pin=C37C-2
+Added Pin To Net: NetName=COM_HSC Pin=C63C-1
+Added Pin To Net: NetName=COM_HSC Pin=PS1C-4
+Added Pin To Net: NetName=COM_HSC Pin=PS3C-3
+Added Pin To Net: NetName=COM_HSC Pin=PS3C-7
+Added Pin To Net: NetName=COM_HSC Pin=Q1C-2
+Added Pin To Net: NetName=COM_HSC Pin=Q1C-4
+Added Pin To Net: NetName=COM_HSC Pin=Q1C-6
+Added Pin To Net: NetName=COM_HSC Pin=Q2C-3
+Added Pin To Net: NetName=COM_HSC Pin=Q2C-5
+Added Pin To Net: NetName=COM_HSC Pin=Q2C-7
+Added Pin To Net: NetName=COM_HSC Pin=R47C-1
+Added Pin To Net: NetName=COM_HSC Pin=R74C-1
+Added Pin To Net: NetName=COM_HSC Pin=U15C-0
+Added Pin To Net: NetName=COM_HSC Pin=U15C-3
+Added Pin To Net: NetName=COM_HSC Pin=U15C-6
+Added Pin To Net: NetName=COM_HSC Pin=U15C-7
+Added Pin To Net: NetName=COM_HSC Pin=U15C-8
+Added Pin To Net: NetName=COM_HSC Pin=U15C-9
+Added Pin To Net: NetName=COM_HSC Pin=U15C-14
+Added Pin To Net: NetName=COM_HSC Pin=U15C-15
+Added Pin To Net: NetName=COM_HSC Pin=U17C-9
+Added Pin To Net: NetName=COM_HSC Pin=U17C-15
+Added Net: Name=COM_HSC
+Added Pin To Net: NetName=COM_LSB Pin=C1B-2
+Added Pin To Net: NetName=COM_LSB Pin=C34B-1
+Added Pin To Net: NetName=COM_LSB Pin=C36B-2
+Added Pin To Net: NetName=COM_LSB Pin=C38B-1
+Added Pin To Net: NetName=COM_LSB Pin=C90B-1
+Added Pin To Net: NetName=COM_LSB Pin=C91B-1
+Added Pin To Net: NetName=COM_LSB Pin=C92B-1
+Added Pin To Net: NetName=COM_LSB Pin=PS4B-4
+Added Pin To Net: NetName=COM_LSB Pin=PS5B-3
+Added Pin To Net: NetName=COM_LSB Pin=PS5B-7
+Added Pin To Net: NetName=COM_LSB Pin=Q2B-2
+Added Pin To Net: NetName=COM_LSB Pin=Q2B-4
+Added Pin To Net: NetName=COM_LSB Pin=Q2B-6
+Added Pin To Net: NetName=COM_LSB Pin=R48B-1
+Added Pin To Net: NetName=COM_LSB Pin=R49B-1
+Added Pin To Net: NetName=COM_LSB Pin=R51B-1
+Added Pin To Net: NetName=COM_LSB Pin=R58B-1
+Added Pin To Net: NetName=COM_LSB Pin=R60B-1
+Added Pin To Net: NetName=COM_LSB Pin=R61B-1
+Added Pin To Net: NetName=COM_LSB Pin=R75B-1
+Added Pin To Net: NetName=COM_LSB Pin=R87B-2
+Added Pin To Net: NetName=COM_LSB Pin=U10B-9
+Added Pin To Net: NetName=COM_LSB Pin=U10B-15
+Added Pin To Net: NetName=COM_LSB Pin=U16B-3
+Added Pin To Net: NetName=COM_LSB Pin=U16B-9
+Added Pin To Net: NetName=COM_LSB Pin=U16B-14
+Added Pin To Net: NetName=COM_LSB Pin=U16B-15
+Added Net: Name=COM_LSB
+Added Pin To Net: NetName=COM_LSC Pin=C1C-2
+Added Pin To Net: NetName=COM_LSC Pin=C34C-1
+Added Pin To Net: NetName=COM_LSC Pin=C36C-2
+Added Pin To Net: NetName=COM_LSC Pin=C38C-1
+Added Pin To Net: NetName=COM_LSC Pin=C90C-1
+Added Pin To Net: NetName=COM_LSC Pin=C91C-1
+Added Pin To Net: NetName=COM_LSC Pin=C92C-1
+Added Pin To Net: NetName=COM_LSC Pin=PS4C-4
+Added Pin To Net: NetName=COM_LSC Pin=PS5C-3
+Added Pin To Net: NetName=COM_LSC Pin=PS5C-7
+Added Pin To Net: NetName=COM_LSC Pin=Q2C-2
+Added Pin To Net: NetName=COM_LSC Pin=Q2C-4
+Added Pin To Net: NetName=COM_LSC Pin=Q2C-6
+Added Pin To Net: NetName=COM_LSC Pin=R48C-1
+Added Pin To Net: NetName=COM_LSC Pin=R49C-1
+Added Pin To Net: NetName=COM_LSC Pin=R51C-1
+Added Pin To Net: NetName=COM_LSC Pin=R58C-1
+Added Pin To Net: NetName=COM_LSC Pin=R60C-1
+Added Pin To Net: NetName=COM_LSC Pin=R61C-1
+Added Pin To Net: NetName=COM_LSC Pin=R75C-1
+Added Pin To Net: NetName=COM_LSC Pin=R87C-2
+Added Pin To Net: NetName=COM_LSC Pin=U10C-9
+Added Pin To Net: NetName=COM_LSC Pin=U10C-15
+Added Pin To Net: NetName=COM_LSC Pin=U16C-3
+Added Pin To Net: NetName=COM_LSC Pin=U16C-9
+Added Pin To Net: NetName=COM_LSC Pin=U16C-14
+Added Pin To Net: NetName=COM_LSC Pin=U16C-15
+Added Net: Name=COM_LSC
+Added Pin To Net: NetName=HS_5VA Pin=5V_TOPA-1
+Added Pin To Net: NetName=HS_5VA Pin=C29A-2
+Added Pin To Net: NetName=HS_5VA Pin=C63A-2
+Added Pin To Net: NetName=HS_5VA Pin=D4A-1
+Added Pin To Net: NetName=HS_5VA Pin=PS3A-1
+Added Pin To Net: NetName=HS_5VA Pin=R11A-2
+Added Pin To Net: NetName=HS_5VA Pin=R78A-2
+Added Pin To Net: NetName=HS_5VA Pin=U17A-10
+Added Pin To Net: NetName=HS_5VA Pin=U17A-16
+Added Net: Name=HS_5VA
+Added Pin To Net: NetName=HS_5VB Pin=5V_TOPB-1
+Added Pin To Net: NetName=HS_5VB Pin=C29B-2
+Added Pin To Net: NetName=HS_5VB Pin=C63B-2
+Added Pin To Net: NetName=HS_5VB Pin=D4B-1
+Added Pin To Net: NetName=HS_5VB Pin=PS3B-1
+Added Pin To Net: NetName=HS_5VB Pin=R11B-2
+Added Pin To Net: NetName=HS_5VB Pin=R78B-2
+Added Pin To Net: NetName=HS_5VB Pin=U17B-10
+Added Pin To Net: NetName=HS_5VB Pin=U17B-16
+Added Net: Name=HS_5VB
+Added Pin To Net: NetName=LS_5VB Pin=C1B-1
+Added Pin To Net: NetName=LS_5VB Pin=C92B-2
+Added Pin To Net: NetName=LS_5VB Pin=D5B-1
+Added Pin To Net: NetName=LS_5VB Pin=LS_5VB-1
+Added Pin To Net: NetName=LS_5VB Pin=PS5B-1
+Added Pin To Net: NetName=LS_5VB Pin=R16B-2
+Added Pin To Net: NetName=LS_5VB Pin=R86B-2
+Added Pin To Net: NetName=LS_5VB Pin=U10B-10
+Added Pin To Net: NetName=LS_5VB Pin=U10B-16
+Added Net: Name=LS_5VB
+Added Pin To Net: NetName=LS_5VC Pin=C1C-1
+Added Pin To Net: NetName=LS_5VC Pin=C92C-2
+Added Pin To Net: NetName=LS_5VC Pin=D5C-1
+Added Pin To Net: NetName=LS_5VC Pin=LS_5VC-1
+Added Pin To Net: NetName=LS_5VC Pin=PS5C-1
+Added Pin To Net: NetName=LS_5VC Pin=R16C-2
+Added Pin To Net: NetName=LS_5VC Pin=R86C-2
+Added Pin To Net: NetName=LS_5VC Pin=U10C-10
+Added Pin To Net: NetName=LS_5VC Pin=U10C-16
+Added Net: Name=LS_5VC
+Add Class Member: Failed to add class member : Component C25A (C28) 1 µF
+Added Member To Class: ClassName=Halfbridge1 Member=Component U10A (U10) MAX14931FAWE+
+Added Member To Class: ClassName=Power Member=Wire COM_HSB
+Added Member To Class: ClassName=Power Member=Wire COM_HSC
+Added Member To Class: ClassName=Power Member=Wire COM_LSB
+Added Member To Class: ClassName=Power Member=Wire COM_LSC

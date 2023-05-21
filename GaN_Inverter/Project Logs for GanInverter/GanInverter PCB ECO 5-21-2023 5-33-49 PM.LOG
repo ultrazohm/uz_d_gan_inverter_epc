@@ -1,0 +1,66 @@
+Removed Pin From Net: NetName=COM_HSA Pin=C25A-1
+Removed Pin From Net: NetName=HS_12VA Pin=C25A-2
+Removed Pin From Net: NetName=COM_HSB Pin=C25B-1
+Removed Pin From Net: NetName=HS_12VB Pin=C25B-2
+Removed Pin From Net: NetName=COM_HSC Pin=C25C-1
+Removed Pin From Net: NetName=HS_12VC Pin=C25C-2
+Removed Member From Class: ClassName=PhaseMeasurements3 Member=2
+Add Component: Footprint Not Found C_0603
+Add Component: Footprint Not Found C_0603
+Add Component: Footprint Not Found C_0603
+Added Pin To Net: NetName=VIN Pin=C25A-1
+Added Pin To Net: NetName=DC- Pin=C25A-2
+Add Pin To Net: Unknown Pin: Pin C34A-1
+Add Pin To Net: Unknown Pin: Pin C34A-2
+Add Pin To Net: Unknown Pin: Pin C34B-1
+Add Pin To Net: Unknown Pin: Pin C34B-2
+Add Pin To Net: Unknown Pin: Pin C34C-1
+Add Pin To Net: Unknown Pin: Pin C34C-2
+Added Member To Class: ClassName=Reference Member=Component C2 (C4) 10 µF
+Added Member To Class: ClassName=Reference Member=Component C3 0.1 µF
+Added Member To Class: ClassName=Halfbridge1 Member=Component C27A (C27) 4.7 µF
+Added Member To Class: ClassName=Halfbridge2 Member=Component C27B (C27) 4.7 µF
+Added Member To Class: ClassName=Halfbridge3 Member=Component C27C (C27) 4.7 µF
+Added Member To Class: ClassName=Halfbridge1 Member=Component C31A (C31) 0.1 µF
+Added Member To Class: ClassName=Halfbridge1 Member=Component C33A (C33) 2.2 uF
+Added Member To Class: ClassName=Halfbridge2 Member=Component C33B (C33) 2.2 uF
+Added Member To Class: ClassName=Halfbridge3 Member=Component C33C (C33) 2.2 uF
+Add Class Member: Failed to add class member : Component C34A (C34) 1 µF
+Add Class Member: Failed to add class member : Component C34B (C34) 1 µF
+Add Class Member: Failed to add class member : Component C34C (C34) 1 µF
+Added Member To Class: ClassName=Halfbridge1 Member=Component C35A (C35) 1 µF
+Added Member To Class: ClassName=Halfbridge2 Member=Component C35B (C35) 1 µF
+Added Member To Class: ClassName=Halfbridge3 Member=Component C35C (C35) 1 µF
+Added Member To Class: ClassName=Halfbridge1 Member=Component C36A (C36) 0.1 µF
+Added Member To Class: ClassName=Halfbridge3 Member=Component C36C (C36) 0.1 µF
+Added Member To Class: ClassName=Halfbridge1 Member=Component C37A (C37) 22 pF
+Added Member To Class: ClassName=Halfbridge2 Member=Component C37B (C37) 22 pF
+Added Member To Class: ClassName=Halfbridge3 Member=Component C37C (C37) 22 pF
+Added Member To Class: ClassName=Halfbridge2 Member=Component C38B (C38) 22 pF
+Added Member To Class: ClassName=Halfbridge1 Member=Component C39A (C39) 10 µF
+Added Member To Class: ClassName=Halfbridge2 Member=Component C39B (C39) 10 µF
+Added Member To Class: ClassName=Halfbridge3 Member=Component C39C (C39) 10 µF
+Added Member To Class: ClassName=DC-link Member=Component C57 56 pF
+Added Member To Class: ClassName=X1 Member=Component D2 150060RS86000
+Added Member To Class: ClassName=Halfbridge1 Member=Component D4A (D4) GF1M-E3/67A
+Added Member To Class: ClassName=Halfbridge3 Member=Component D4C (D4) GF1M-E3/67A
+Added Member To Class: ClassName=Halfbridge2 Member=Component D5B (D5) GF1M-E3/67A
+Added Member To Class: ClassName=X1 Member=Component R1 0R
+Added Member To Class: ClassName=X1 Member=Component R3 0R
+Added Member To Class: ClassName=Halfbridge1 Member=Component R49A (R49) 220R
+Added Member To Class: ClassName=Halfbridge3 Member=Component R49C (R49) 220R
+Added Member To Class: ClassName=Halfbridge1 Member=Component R52A (R52) 10k
+Added Member To Class: ClassName=Halfbridge2 Member=Component R52B (R52) 10k
+Added Member To Class: ClassName=Halfbridge3 Member=Component R52C (R52) 10k
+Added Member To Class: ClassName=Halfbridge1 Member=Component R58A (R58) 2.7R
+Added Member To Class: ClassName=Halfbridge3 Member=Component R58C (R58) 2.7R
+Added Member To Class: ClassName=Halfbridge1 Member=Component R59A (R59) 2.7R
+Added Member To Class: ClassName=Halfbridge2 Member=Component R59B (R59) 2.7R
+Added Member To Class: ClassName=Halfbridge3 Member=Component R59C (R59) 2.7R
+Added Member To Class: ClassName=Halfbridge1 Member=Component R61A (R61) 2.7R
+Added Member To Class: ClassName=Halfbridge1 Member=Component R62A (R62) 5.6R
+Added Member To Class: ClassName=Halfbridge2 Member=Component R62B (R62) 5.6R
+Added Member To Class: ClassName=Halfbridge3 Member=Component R62C (R62) 5.6R
+Added Member To Class: ClassName=PhaseMeasurements1 Member=Component U4A (U4) LM57CISD-10/NOPB
+Added Member To Class: ClassName=PhaseMeasurements2 Member=Component U4B (U4) LM57CISD-10/NOPB
+Added Member To Class: ClassName=PhaseMeasurements3 Member=Component U4C (U4) LM57CISD-10/NOPB

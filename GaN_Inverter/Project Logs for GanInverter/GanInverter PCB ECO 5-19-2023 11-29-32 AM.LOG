@@ -1,0 +1,91 @@
+Removed Pin From Net: NetName=3V3_PER Pin=U10A-
+Change Component Comment : Designator=R48A Old Comment=0R New Comment=1M
+Change Component Comment : Designator=R48B Old Comment=0R New Comment=1M
+Change Component Comment : Designator=R48C Old Comment=0R New Comment=1M
+Change Component Comment : Designator=R52A Old Comment=0R New Comment=2.7R
+Change Component Comment : Designator=R52B Old Comment=0R New Comment=2.7R
+Change Component Comment : Designator=R52C Old Comment=0R New Comment=2.7R
+Change Component Comment : Designator=R59A Old Comment=0R New Comment=2.7R
+Change Component Comment : Designator=R59B Old Comment=0R New Comment=2.7R
+Change Component Comment : Designator=R59C Old Comment=0R New Comment=2.7R
+Change Component Comment : Designator=R62A Old Comment=0R New Comment=2.7R
+Change Component Comment : Designator=R62B Old Comment=0R New Comment=2.7R
+Change Component Comment : Designator=R62C Old Comment=0R New Comment=2.7R
+Change Component Comment : Designator=R71A Old Comment=0R New Comment=2.7R
+Change Component Comment : Designator=R71B Old Comment=0R New Comment=2.7R
+Change Component Comment : Designator=R71C Old Comment=0R New Comment=2.7R
+Change component parameters: Designator = "R58A" ("R58"); Footprint = "FP-KRL2012-MFG"; UniqueID = "\1UVWUVFXH\XTRAAEDL" ("\1UVWUVFXH\XTRAAEDL")
+Change component parameters (AddParameter): Name = "Case Code (Imperial)"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Metric)"; Value = "2012"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "2012"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Features"; Value = "Automotive AEC-Q200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.028inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "0.049inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Power Dissipation"; Value = "1W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "1W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "4mR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistor Type"; Value = "Metal Foil"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "KRL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "METAL FOIL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "50ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "1.25mm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R58B" ("R58"); Footprint = "FP-KRL2012-MFG"; UniqueID = "\2UVWUVFXH\XTRAAEDL" ("\2UVWUVFXH\XTRAAEDL")
+Change component parameters (AddParameter): Name = "Case Code (Imperial)"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Metric)"; Value = "2012"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "2012"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Features"; Value = "Automotive AEC-Q200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.028inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "0.049inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Power Dissipation"; Value = "1W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "1W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "4mR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistor Type"; Value = "Metal Foil"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "KRL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "METAL FOIL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "50ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "1.25mm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R58C" ("R58"); Footprint = "FP-KRL2012-MFG"; UniqueID = "\3UVWUVFXH\XTRAAEDL" ("\3UVWUVFXH\XTRAAEDL")
+Change component parameters (AddParameter): Name = "Case Code (Imperial)"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Metric)"; Value = "2012"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "2012"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Features"; Value = "Automotive AEC-Q200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.028inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "0.049inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Power Dissipation"; Value = "1W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "1W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "4mR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistor Type"; Value = "Metal Foil"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "KRL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "METAL FOIL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "50ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "1.25mm"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found C_0603
+Add Pin To Net: Unknown Pin: Pin C25A-1
+Add Pin To Net: Unknown Pin: Pin C25A-2
+Add Pin To Net: Unknown Pin: Pin U10A-7
+Add Class Member: Failed to add class member : Component C25A (C28) 1 µF
+Added Member To Class: ClassName=Halfbridge1 Member=Component U10A (U10) MAX14931FAWE+
