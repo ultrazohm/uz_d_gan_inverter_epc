@@ -152,7 +152,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7]
-DocumentPath=GanInverter.PcbDoc
+DocumentPath=..\..\..\..\..\..\..\AppData\Local\Temp\History\GanInverter.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -162,11 +162,11 @@ AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=FWKSNWZO
+DocumentUniqueId=RSCDMKDB
 
 [Document8]
 DocumentPath=TopSheet.SchDoc
@@ -237,23 +237,6 @@ GenerateClassCluster=0
 DocumentUniqueId=MRILPPRK
 
 [Document12]
-DocumentPath=Phase_Measurements.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=4
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=QKFXUWCT
-
-[Document13]
 DocumentPath=Halfbridges.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -269,6 +252,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZHVMMOEZ
+
+[Document13]
+DocumentPath=Phase_Measurements.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=4
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=QKFXUWCT
 
 [Document14]
 DocumentPath=DC-link.SchDoc

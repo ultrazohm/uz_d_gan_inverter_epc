@@ -1,0 +1,55 @@
+Removed Pin From Net: NetName=LS_12VA Pin=C33B-2
+Removed Pin From Net: NetName=LS_12VA Pin=C33C-2
+Removed Pin From Net: NetName=LS_12VA Pin=C35B-2
+Removed Pin From Net: NetName=LS_12VA Pin=C35C-2
+Removed Pin From Net: NetName=LS_12VA Pin=C39B-1
+Removed Pin From Net: NetName=LS_12VA Pin=C39C-1
+Removed Pin From Net: NetName=LS_12VA Pin=LS_12VB-1
+Removed Pin From Net: NetName=LS_12VA Pin=LS_12VC-1
+Removed Pin From Net: NetName=LS_12VA Pin=PS2B-5
+Removed Pin From Net: NetName=LS_12VA Pin=PS2C-5
+Removed Pin From Net: NetName=LS_12VA Pin=PS4B-4
+Removed Pin From Net: NetName=LS_12VA Pin=PS4B-6
+Removed Pin From Net: NetName=LS_12VA Pin=PS4C-4
+Removed Pin From Net: NetName=LS_12VA Pin=PS4C-6
+Removed Pin From Net: NetName=LS_12VA Pin=U12B-16
+Removed Pin From Net: NetName=LS_12VA Pin=U12C-16
+Add Component: Footprint Not Found C_0603
+Add Component: Footprint Not Found C_0603
+Add Component: Footprint Not Found C_0603
+Add Pin To Net: Unknown Pin: Pin C34A-1
+Add Pin To Net: Unknown Pin: Pin C34A-2
+Add Pin To Net: Unknown Pin: Pin C34B-1
+Add Pin To Net: Unknown Pin: Pin C34B-2
+Add Pin To Net: Unknown Pin: Pin C34C-1
+Add Pin To Net: Unknown Pin: Pin C34C-2
+Added Pin To Net: NetName=LS_12VB Pin=C33B-2
+Added Pin To Net: NetName=LS_12VB Pin=C35B-2
+Added Pin To Net: NetName=LS_12VB Pin=C39B-1
+Added Pin To Net: NetName=LS_12VB Pin=LS_12VB-1
+Added Pin To Net: NetName=LS_12VB Pin=PS2B-5
+Added Pin To Net: NetName=LS_12VB Pin=PS4B-4
+Added Pin To Net: NetName=LS_12VB Pin=PS4B-6
+Added Pin To Net: NetName=LS_12VB Pin=U12B-16
+Added Net: Name=LS_12VB
+Added Pin To Net: NetName=LS_12VC Pin=C33C-2
+Added Pin To Net: NetName=LS_12VC Pin=C35C-2
+Added Pin To Net: NetName=LS_12VC Pin=C39C-1
+Added Pin To Net: NetName=LS_12VC Pin=LS_12VC-1
+Added Pin To Net: NetName=LS_12VC Pin=PS2C-5
+Added Pin To Net: NetName=LS_12VC Pin=PS4C-4
+Added Pin To Net: NetName=LS_12VC Pin=PS4C-6
+Added Pin To Net: NetName=LS_12VC Pin=U12C-16
+Added Net: Name=LS_12VC
+Added Member To Class: ClassName=Reference Member=Component C2 (C4) 10 µF
+Add Class Member: Failed to add class member : Component C34A (C34) 1 µF
+Add Class Member: Failed to add class member : Component C34B (C34) 1 µF
+Add Class Member: Failed to add class member : Component C34C (C34) 1 µF
+Added Member To Class: ClassName=Halfbridge2 Member=Component C36B (C36) 0.1 µF
+Added Member To Class: ClassName=DC-link Member=Component C57 56 pF
+Added Member To Class: ClassName=PhaseMeasurements1 Member=Component U4A (U4) LM57CISD-10/NOPB
+Added Member To Class: ClassName=PhaseMeasurements2 Member=Component U4B (U4) LM57CISD-10/NOPB
+Added Member To Class: ClassName=PhaseMeasurements3 Member=Component U4C (U4) LM57CISD-10/NOPB
+Added Member To Class: ClassName=Halfbridge2 Member=Component U17B (U10) MAX14931FAWE+
+Added Member To Class: ClassName=Power Member=Wire LS_12VB
+Added Member To Class: ClassName=Power Member=Wire LS_12VC
