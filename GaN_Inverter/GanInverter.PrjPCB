@@ -50,7 +50,7 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=user.DbLib
+DocumentPath=..\..\..\..\..\..\AltiumDB\altium_libraries\user.DbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -348,25 +348,29 @@ Variation1=Designator=R2|UniqueId=\LGUSEKVC\JALPUBCU|Kind=1|AlternatePart=
 Variation2=Designator=R1|UniqueId=\LGUSEKVC\ODXPHPQE|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for GanInverter\Net Status - GanInverter.html
+DItemRevisionGUID=
+
 [Parameter1]
-Name=ProjectRevision
-Value=Rev02
+Name=Author
+Value=K. Ilhan
 
 [Parameter2]
-Name=ProjectDate
-Value=07/23
+Name=AuthorParam
+Value=K. Ilhan
 
 [Parameter3]
 Name=Project
 Value=UZ_D_GaN_Inverter
 
 [Parameter4]
-Name=AuthorParam
-Value=K. Ilhan
+Name=ProjectDate
+Value=07/23
 
 [Parameter5]
-Name=Author
-Value=K. Ilhan
+Name=ProjectRevision
+Value=Rev02
 
 [Configuration1]
 Name=Sources
