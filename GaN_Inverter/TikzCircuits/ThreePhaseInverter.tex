@@ -40,7 +40,7 @@
 			\draw (2,2) -- ++(0,-0.3) node[Lnigbt,bodydiode,anchor=D,label={[label 	distance=10]100:$$}](S1){} ;
 			\draw (S1.E) to (2,0)  node[circ,label={180:$V_{A}$}](va){}
 			to (2,-.5) node[Lnigbt,bodydiode,anchor=D,label={[label distance=10]100:$$}](s1){};
-			\draw (s1.E) to ++(0,-0.3)  to [/tikz/circuitikz/bipoles/length=25pt, R = $R_{dc}$] ++(-2,0) to ++(-1,0);
+			\draw (s1.E) to ++(0,-0.3)  to  ++(-2,0) to [/tikz/circuitikz/bipoles/length=25pt, R = $R_{dc}$] ++(-1,0);
 			\draw (S1.B) node[circ,label={90:{$S_1$}}]{};
 			\draw (s1.B) node[circ,label={90:{$S^*_1$}}]{};
 			
@@ -71,9 +71,9 @@
 		
 			
 			
-		\end{circuitikz}
+	\end{circuitikz}
 		
 		
 
 	
-\end{document}
+	\end{document}
