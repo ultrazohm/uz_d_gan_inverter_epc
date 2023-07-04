@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 5:48:59 PM On 7/4/2023
+
+Output: Pick and Place Files
+Type  : Pick Place
+From  : Variant [Inverter_V1] of PCB Document [GanInverter.PcbDoc]
+   Generated File[Pick_and_Place_GanInverter_Inverter_V1_Rev02.csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 5:49:05 PM On 7/4/2023

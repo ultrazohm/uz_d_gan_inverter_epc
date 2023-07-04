@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: GanInverter_Rev02.GBR   7/4/2023  5:48:17 PM
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTO                Top Overlay                             
+.GTP                Top Paste                               
+.GTS                Top Mask                                
+.GTL                Top Copper                              
+.G1                 Signal Layer 1                          
+.G2                 Signal Layer 2                          
+.G3                 Signal Layer 3                          
+.G4                 Signal Layer 4                          
+.GBL                Bottom Copper                           
+.GBS                Bottom Mask                             
+.GBP                Bottom Paste                            
+.GBO                Bottom Overlay                          
+.GM1                Board Shape                             
+------------------------------------------------------------------------------------------
