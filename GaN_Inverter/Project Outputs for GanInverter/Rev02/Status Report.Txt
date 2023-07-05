@@ -1,14 +1,9 @@
-Project Outputs Generation Report
----------------------------------
-Start Output Generation At 5:49:40 PM On 7/4/2023
-
-Output: Bill of Materials
+Output: BOM_JLC
 Type  : BOM
 From  : Variant [Inverter_V1] of Project [GanInverter.PrjPCB]
-   Generated File[BOM_GanInverter_Inverter_V1_Rev02.xlsx]
 
 
-Files Generated   : 1
+Files Generated   : 0
 Documents Printed : 0
 
-Finished Output Generation At 5:51:00 PM On 7/4/2023
+Finished Output Generation At 8:16:11 PM On 7/5/2023
