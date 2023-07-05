@@ -53,12 +53,12 @@ Used DCodes :
     D21
     D26
     D27
-    D32
+    D28
+    D29
+    D30
     D35
-    D36
-    D37
-    D43
-    D49
+    D46
+    D48
     D50
     D51
     D53
@@ -90,12 +90,12 @@ Used DCodes :
     D60
     D61
     D62
-    D66
+    D63
+    D64
+    D65
     D69
-    D70
-    D71
-    D77
-    D83
+    D80
+    D82
     D84
     D85
     D87
@@ -108,7 +108,7 @@ Used DCodes :
     D94
     D95
     D127
-    D129
+    D128
     D136
     D137
     D138
@@ -132,7 +132,7 @@ Generating : Top Mask
 
 Used DCodes :
     D21
-    D31
+    D34
     D54
     D55
     D56
@@ -267,12 +267,12 @@ Used DCodes :
     D21
     D26
     D27
-    D32
+    D28
+    D29
+    D30
     D35
-    D36
-    D37
-    D43
-    D49
+    D46
+    D48
     D50
     D51
     D53
