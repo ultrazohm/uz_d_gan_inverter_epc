@@ -1,10 +1,12 @@
-Output: BOM_JLC
-Type  : BOM
-From  : Variant [Inverter_V1] of Project [GanInverter.PrjPCB]
-   Generated File[BOM_GanInverter_Inverter_V1_Rev02.xlsx]
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [GanInverter.PcbDoc]
+   Generated File[GanInverter_Rev02.TXT]
+   Generated File[GanInverter_Rev02.LDP]
+   Generated File[GanInverter_Rev02.DRR]
 
 
-Files Generated   : 1
+Files Generated   : 3
 Documents Printed : 0
 
-Finished Output Generation At 12:36:38 AM On 7/6/2023
+Finished Output Generation At 10:09:49 AM On 7/7/2023

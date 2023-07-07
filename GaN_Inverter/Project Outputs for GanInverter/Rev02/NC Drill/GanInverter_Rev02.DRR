@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: GanInverter.PcbDoc   7/5/2023  9:02:33 PM
+NCDrill File Report For: GanInverter.PcbDoc   7/7/2023  10:09:49 AM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Copper to Bottom Copper
@@ -8,9 +8,9 @@ ASCII RoundHoles File : GanInverter_Rev02.TXT
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
 T1      8mil (0.201mm)                                            Round             194       PTH        9.31inch (236.55mm)
-T2      10mil (0.249mm)                                           Round             499       PTH        82.22inch (2088.36mm)
+T2      10mil (0.249mm)                                           Round             507       PTH        83.61inch (2123.59mm)
 T3      16mil (0.399mm)                                           Round             39        PTH        14.60inch (370.86mm)
-T4      20mil (0.5mm)                                             Round             144       PTH        36.08inch (916.38mm)
+T4      20mil (0.5mm)                                             Round             136       PTH        35.86inch (910.89mm)
 T5      40mil (1.021mm)                                           Round             18        PTH        2.28inch (58.01mm)
 T6      45mil (1.151mm)                                           Round             8         PTH        5.08inch (129.15mm)
 T7      53mil (1.349mm)                                           Round             20        PTH        6.36inch (161.44mm)
